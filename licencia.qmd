@@ -1,0 +1,40 @@
+---
+title: ""
+#subtitle: "para reutilizar y compartir conocimientos"
+#title-block-banner: true
+toc: false
+editor: 
+  mode: source
+---
+
+:::{.add-space-extra}
+
+<p class="h1-center" > Licencia </p>
+
+:::{.topbr-extra}
+
+<center>
+
+<p> El contenido de este sitio está bajo una licencia </p>
+<p>[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)</p>
+
+<left> {{< fa brands creative-commons size=2xl >}} {{< fa brands creative-commons-by size=2xl >}} </left>
+
+<br>
+
+<p class="h2-center" > Cualquiera puede: </p>
+
+
+[Compartir]{.bold-dark-gray}. Copiar y redistribuir el material en cualquier medio o formato para cualquier propósito, incluso comercial.
+
+[Adaptar]{.bold-dark-gray}. Remezclar, transformar y construir sobre el material para cualquier propósito, incluso comercial.
+
+:::{.topbr-extra}
+<p class="h2-center" > Bajo los siguientes términos: </p>
+
+[Atribución]{.bold-dark-gray}. Se debe dar el crédito apropiado, proporcionar un enlace a la licencia, e indicar si se hicieron cambios. Puede hacerlo de cualquier manera razonable, pero no de ninguna forma que sugiera que el licenciante le respalda a usted o a su uso.
+:::
+</center>
+
+:::
+:::

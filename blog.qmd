@@ -1,0 +1,19 @@
+---
+title: "Blog"
+subtitle: "un espacio donde compartir aprendizajes y experiencias"
+listing:
+  contents: blog
+  sort: "date desc"
+  type: default
+  image-align: right
+#  image-height: 8em
+  max-description-length: 100
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+# Próximamente!

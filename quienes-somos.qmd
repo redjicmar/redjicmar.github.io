@@ -1,0 +1,70 @@
+---
+title: "Sobre la Red JICMar"
+subtitle: "su gestación, objetivos y estructura"
+title-block-banner: true
+toc: true
+toc-title: "Contenido"
+editor: 
+  mode: source
+---
+
+# Cómo comenzó
+
+Esta red inició entre un grupo de amigues que nos formamos en Biología y Oceanografía Física en la Universidad de Buenos Aires, Argentina. La mayoría recién doctorades o a punto de doctorarnos y queríamos realizar postdocs en otro país o aplicar a instancias afuera, pedir fondos, actividades claves en nuestro rol como [Jóvenes Científicos en Ciencias del Mar]{.bold-dark-gray}.
+
+Hablando entre nosotres empezamos a notar que compartíamos las [mismas problemáticas]{.bold-dark-gray} más allá de trabajar en distintas disciplinas o con distintos grupos. Y empezamos a intercambiar información y tips entre nosotres.
+
+En este mismo espíritu, consideramos que la información que fuéramos recopilando tenía que estar disponible para cualquier persona interesada. Y de esa forma también podíamos retroalimentarnos y seguir creciendo hacia [una comunidad colaborativa]{.bold-dark-gray}. Y así es que decidimos crear esta red de y para jóvenes que trabajen en temas relacionados a ciencias del mar.
+
+
+<br>
+
+
+# Objetivos
+
+Creemos que es fundamental [establecer conexiones y colaboraciones]{.bold-dark-gray} con otros profesionales a nivel nacional e internacional para crear un futuro más [equitativo y sostenible]{.bold-dark-gray}. Es por ello que esta Red JICMar tiene cómo objetivos particulares:
+
+* Generar una [base de datos]{.bold-dark-gray} de instituciones, grupos e individuos relacionados con las ciencias del océano para facilitar la conexión y colaboración entre los miembros.
+* Proporcionar información sobre posibles [oportunidades laborales]{.bold-dark-gray} en el campo de las ciencias del océano.
+* Orientar en la solicitud e identificación de fuentes de [financiamiento]{.bold-dark-gray}.
+* Generar espacios de [intercambio entre jóvenes investigadores]{.bold-dark-gray} de ciencias del mar en el marco de talleres, jornadas y reuniones, en los cuales se pueda:
+
+  - Poner en común desafíos y problemáticas de la puesta en práctica de la interdisciplina en las Ciencias del Mar.
+  - Identificar y discutir sobre trabas y problemáticas de origen multicausal que se encuentra cada individuo y cada institución a la hora de hacer ciencia.
+  - Promover el diálogo entre diferentes actores como academia, sector privado, sector público y sociedad civil. 
+  - Invitar profesionales o miembros que compartan sus trayectorias y experiencias en el campo de las ciencias del océano. </p>
+
+<br>
+
+# Estructura
+
+Esta red esta formada por y para personas dentro de las Ciencias del Mar en Latinoamérica que:
+
+* se encuentren en los últimos años del Doctorado
+* ya Doctoradas que estén buscando oportunidades de trabajo
+* ya Doctoradas que trabajen en la administración pública, ONGs o cualquier tipo de institución y se encuentren en sus primeros años de gestión
+* que estén realizando un Postdoc.
+
+Actualmente la Red JICMar está gestionada por:
+
+* Nicolás Lois
+* Belén Risaro
+* Milagros Urricariet
+* Romina Trinchin
+* Loreley Lago
+* Virginia García Alonso
+
+Aún estamos en proceso de estructuración y más adelante estaremos dando información sobre cómo sumarse a nuevos roles y tareas.
+
+
+<br>
+
+
+<p class="h2-center" > ¡Están todes invitades a sumarse !</p>
+
+
+#
+![](imagenes/horizonte.png){fig-align="left" width="100%" fig-alt="Foto de un atardecer en el mar donde el cielo tiene diversos tonos de color rosa."}
+
+<p class="legend-center"> Por un horizonte de nuevas oportunidades y colaboraciones en las Ciencias Marinas Latinoamericanas. </p>
+

@@ -1,0 +1,55 @@
+---
+title: "Código de conducta"
+subtitle: "y normas de convivencia en esta comunidad"
+title-block-banner: true
+toc: true
+toc-title: "Contenido"
+editor: 
+  mode: source
+---
+
+# Valores y compromisos
+
+La Red JICMar pretende ser un espacio de intercambio [agradable]{.bold-dark-gray}, [inclusivo]{.bold-dark-gray} y [seguro]{.bold-dark-gray} que promueva:
+
+* la colaboración
+* la diversidad y la inclusión
+* un entorno amable y acogedor
+* contribuciones de la comunidad
+* el intercambio de ideas, código, software y experiencia
+
+La participación en esta comunidad implica el [compromiso de no tomar parte en comportamientos contrarios a estos valores]{.bold-dark-gray}, garantizando un espacio libre de acoso, intimidación y abuso en todo evento (en persona o virtual) o canal de comunicación (mail, sitio web y redes sociales) auspiciados por la Red JICMar.
+
+Cualquier persona que viole el Código de Conducta puede ser sancionada o expulsada temporal o permanentemente de las plataformas virtuales y/o evento a discreción del Comité del Código de Conducta.
+
+<br>
+
+# Ejemplos de comportamiento inaceptable
+
+Esta es un lista que incluye, pero no se limita, a ejemplos de comportamientos inaceptables:
+
+* El uso de lenguaje o imágenes sexualizados, y la atención o insinuaciones sexuales de cualquier tipo.
+* Trolling, comentarios insultantes o despectivos, y ataques personales o políticos.
+* Acoso público o privado.
+* Publicar información privada de otros, como una dirección física o de correo electrónico, sin su permiso explícito.
+* Otras conductas que puedan considerarse razonablemente inapropiadas en un entorno profesional.
+
+<br>
+
+# Denuncias
+
+Cualquier persona que viole el Código de Conducta puede ser sancionada o expulsada temporal o permanentemente de las plataformas virtuales y/o evento a discreción de las y los organizadores de la red.
+
+## Electrónicamente
+
+Se pueden hacer denuncias anónimas o no-anónimas enviaando un mensaje por correo electrónico a cualquier miembro organizador de la red. Por favor, incluyan capturas de pantalla o copias de todas las conversaciones electrónicas relevantes siempre que sea posible sin comprometer la anonimidad cuando sea pertinente.
+
+## Personalmente
+
+Se pueden formular denuncias personalmente ante cualquier miembro de la red presente en un evento. Ésto se llevará a cabo en un espacio seguro donde no se comprometa la anonimidad/seguridad de quien haga la denuncia.
+
+<br>
+
+
+***Este código fue adaptado del Código de conducta de [Biconductor](https://www.bioconductor.org/about/code-of-conduct/) y de [flexdashboard](https://pkgs.rstudio.com/flexdashboard/CODE_OF_CONDUCT.html)***
+

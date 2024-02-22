@@ -1,0 +1,96 @@
+---
+title: "Contacto"
+title-block-banner: true
+
+editor: 
+  mode: source
+---
+
+::: {.topbr-extra}
+Pueden escribirnos un mail a [redjicmar@gmail.com]{.bold-dark-gray} o dejarnos un mensaje:
+:::
+
+<br>
+
+::: email-container
+<!-- modify this form HTML and place wherever you want your form -->
+
+<form action="https://formspree.io/f/mrgnqnjn" method="POST">
+
+<label> Nombre: </label>
+
+<input name="nombre" style="background-color:#ffffff">
+
+<br>
+
+<label> Mail: </label>
+
+<input type="email" name="email" style="background-color:#ffffff">
+
+<br>
+
+<label> Mensaje:
+
+```{=html}
+<textarea name="message" style="background-color:#ffffff"></textarea>
+```
+</label>
+
+<br>
+
+<!-- your other form fields go here -->
+
+<button class="btn" type="submit">
+
+Enviar
+
+</button>
+
+</form>
+:::
+
+```{=html}
+<style>
+
+h1{
+  padding-top: 1em;
+  color: $blue-medium;
+  font-weight: 600;
+  font-size: 33px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+}
+
+input[type=email], textarea {
+  width: 80%;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.email-container {
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.email-container label {
+    width: 80%;
+}
+
+.email-container textarea {
+   min-height: 150px;
+
+}
+
+input[type=submit] {
+  cursor: pointer;
+  width: 150%;
+}
+
+</style>
+```

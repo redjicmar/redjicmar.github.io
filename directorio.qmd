@@ -1,0 +1,11 @@
+---
+title: "Directorio"
+subtitle: "un espacio para conocernos y generar intercambio"
+title-block-banner: true
+#toc: true
+toc-title: "Contenido"
+editor: 
+  mode: source
+---
+
+# Próximamente!

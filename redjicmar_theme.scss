@@ -1,0 +1,468 @@
+/*-- scss:defaults --*/
+
+
+// Fonts (importar desde https://fonts.google.com/ y definir como "mainfont" en _quarto.yml)
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700&display=swap');
+
+
+// Colores (definir variables de colores; syntax = `$varName: value;`)
+$black: #000000;
+$white: #ffffff;
+$blue-dark: #000080;
+$blue-medium: #1a5098;
+$blue-medium-light:#eef2f7;
+$blue-light: #6879c0;
+$green: #6ac5cc;
+$lightblue: #9ddcf7;
+$dark-gray: #4e4d4b;
+$gray: #64605f;
+$light-gray: #949799;
+$cream: #fff9f4;
+
+
+// Colores base del documento
+$navbar-bg: $blue-medium;
+$navbar-fg: $cream; 
+$navbar-hl: $green;
+$body-bg: $white;
+$body-color: $dark-gray;
+//$footer-bg: $white;
+$footer-bg: $white;
+$footer-fg: $dark-gray;
+$link-color: $blue-medium;
+$link-hover-color: $green;
+
+
+// Codigo en texto 
+$code-bg: $light-gray;
+$code-color: $blue-dark; 
+
+
+// Bloques de codigo
+$code-block-bg: $light-gray;
+
+
+/*-- scss:rules --*/
+
+
+//------- ELEMENT SELECTORS -------//
+
+h1, h2, h3, h4, h5, h6 {
+  /*letter-spacing: 1px;*/
+  font-weight: 600;
+  color: $blue-medium;
+}
+
+h1 {
+  font-size: 30px;
+  margin-top: 0rem;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 24px;
+}
+
+body {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 20px;
+  font-weight: 300;
+}
+
+footer {
+  font-size: 16px;
+}
+
+
+//------- CLASS SELECTORS -------//
+
+
+//-- Modificados luego de inspeccionar el sitio --//
+
+
+// color del texto en los banners
+.quarto-title-banner .quarto-title .title {
+    color: $cream;
+}
+
+// subtitulos en los blogs
+#title-block-header.quarto-title-block.default .description {
+    color: $cream;
+    font-size: 18px;
+    margin-top: 0.25em;
+    margin-bottom: 1em;
+    font-weight: 300;
+}
+
+// color de resaltado en los submenues del navbar 
+.nav-link.dropdown-toggle.show{ 
+    background: $blue-light;
+}
+
+
+//-- Auto definidos (self-defined --//
+
+
+//- Texto -//
+
+.h1-center{
+  color: $blue-medium;
+  margin-top: 0em;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+}
+
+.h1-left{
+  color: $blue-medium;
+  margin-top: 0em;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: left;
+}
+
+.h2-left{
+  color: $blue-medium;
+  font-weight: 600;
+  font-size: 22px;
+  text-align: left;
+}
+
+.h2-center{
+  color: $blue-medium;
+  font-weight: 600;
+  font-size: 22px;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.h2-dark-gray{
+  color: $dark-gray;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.h3-dark-gray{
+  color: $dark-gray;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.h2-blue{
+  color: $blue-medium;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.bold-dark-gray{
+  color: $dark-gray;
+  font-weight: 700;
+}
+
+
+.cream {
+  color: $cream;
+}
+
+
+.body-center {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 18px;
+  font-weight: 300;
+  color: $dark-gray;
+  text-align: center;
+}
+
+.body-center-small {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 14px;
+  font-weight: 300;
+  color: $dark-gray;
+  text-align: center;
+}
+
+.body-left-small {
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 14px;
+  font-weight: 300;
+  color: $dark-gray;
+  text-align: left;
+}
+
+.legend-center {
+  font-size: 16px;
+  font-weight: 300;
+  color: $gray;
+  font-style: italic;
+  text-align: center;
+}
+
+.quarto-figure {
+    position: relative;
+    margin-bottom: 0.25em;
+}
+
+.transparent{
+ color: rgba(16, 134, 144, 0); 
+}
+
+.fondo-crema {
+  background-color: $cream;
+}
+
+
+// larger text
+.large-text {
+  font-size: 25px;
+}
+
+// slightly smaller than default text
+.small-text {
+  font-size: 17px;
+}
+
+// smallest text
+.extra-small-text{
+  font-size: 16px;  
+}
+
+// extra space above line of text (but not as much as <br>)
+.topbr {
+    display: block;
+    margin-top: 0.5em;
+}
+
+// extra space above line of text (but not as much as <br>)
+.topbr-extra {
+    display: block;
+    margin-top: 2em;
+}
+
+// center align text
+.center-text {
+  text-align: center;
+}
+
+// dark gray text
+.dark-gray-text{
+  color: $dark-gray;
+}
+
+// green bold text
+.green-bold-text{
+  color: $green;
+  font-weight: 600;
+}
+
+// green text
+.green-text{
+  color: $green;
+}
+
+
+// blue text
+.blue-text{
+  color: $blue;
+}
+
+// almost bold
+.almost-bold {
+  font-weight: 500;
+}
+
+// gray-italic text (mostly used for captions)
+.gray-italic {
+  color: $gray;
+  font-style: italic;
+  font-size: 15px;
+}
+
+
+
+//- Bloques -//
+
+// bloque de fondo celeste 
+.lightblue-div {
+  background-color: $lightblue;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  padding-top: 4%; // percentages necessary for content to adjust with viewport
+  padding-bottom: 3%;
+  padding-right: 5%; 
+  padding-left: 5%; 
+}
+
+// para agregar espacio entre textos 
+.add-space{
+padding-right: 7%;
+padding-left: 7%;
+}
+
+.add-space-extra{
+padding-right: 15%;
+padding-left: 15%;
+}
+
+
+// bloque de fondo blanco 
+.white-div { 
+  background-color: $white;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 15%; 
+  padding-left: 15%; 
+}
+
+//- Botones -//
+
+// btn styling
+.btn {
+  color: $white;
+  text-align: center;
+  background-color: $blue-medium;
+  border-color: none;
+}
+
+// button hover styling
+.btn:hover {
+  color: $white;
+  text-align: center;
+  background-color: $green;
+  border-color: none;
+}
+
+// image styling
+.img-styling {
+  border-radius: 2%;
+  /*border: 2px solid $gray;*/
+  /*display: block;*/
+  margin-left: auto;
+  margin-right: auto;
+ //width: 80%;
+}
+
+
+//- Imagenes -//
+
+// center image only
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.figure-caption {
+  color: $gray;
+  font-style: italic;
+}
+
+.subtitle {
+  color: $cream;
+  font-size: 20px;
+  margin-top: 0.25em;
+  margin-bottom: 1em;
+  font-weight: 200;
+}
+
+
+
+
+/* CLASS SELECTORS (copied from inspecting site -- Quarto defined?) */
+
+// resize logo (top left corner) see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
+.navbar-brand img { 
+  max-height: 32px;
+  width: auto;
+}
+
+
+// headshot shape
+.rounded { 
+    border-radius: 50px 20px 50px 20px !important;
+}
+
+// button text size (landing page)
+.about-link-text { 
+  font-size: 18px;
+}
+
+
+
+
+// button icon size (landing page)
+.bi { 
+  font-size: 18px;
+  color: $white;
+  border: none !important;
+}
+
+// button icon hover styling
+.bi:hover {
+  color: $green;
+  }
+
+// listing card styling (e.g.boxes in viz)
+.card {
+  background-color: $white;
+  border-color: $white;
+  //border-radius: 5.25em;
+}
+
+// listing description text styling
+.description {
+  font-size: 25px;
+}
+
+
+
+/* footer */
+.nav-footer {  
+  padding-top: 0em;
+  padding-bottom: 0em;
+  align-items: center;
+}
+
+.nav-footer-center {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.nav-footer-right {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+.nav-footer-left {
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+
+
+// side bar in blogs
+
+#quarto-content.page-columns #quarto-margin-sidebar{
+  .quarto-listing-category-title{
+      font-size: 16px;
+  }
+  .quarto-listing-category{
+    font-size: 14px;
+  }
+}

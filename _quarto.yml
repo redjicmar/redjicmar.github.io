@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Red JICMar"
+  favicon: imagenes/logo-sombra-gris.svg
+  
+  navbar:
+    pinned: true
+    #logo: imagenes/logo.png
+    #logo-alt: "Logo redondo con el nombre de la red JICMar Latinoamérica. El fondo es blanco y hay unas líneas curvas en distintos tonos de verde y azul en la parte de abajo azemejando a las olas del mar."
+    tools:
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/redjicmar/redjicmar.github.io
+    
+    right:
+      - text: "Quiénes somos"
+        href: quienes-somos.qmd
+      - text: "Directorio"
+        href: directorio.qmd
+      - text: "Recursos"
+        menu:
+          - text: "Subsidios"
+            href: recursos/subsidios.qmd
+          - text: "Sociedades y eventos"
+            href: recursos/soc-eventos.qmd
+          - text: "Oportunidades laborales"
+            href: recursos/op-laborales.qmd
+
+      - text: "Eventos"
+        href: eventos.qmd
+      - text: "Blog"
+        href: blog.qmd
+
+
+
+  page-footer:  
+    left: >-
+     &#169; 2023 Red JICMar &#8729; Hecho con [Quarto](https://quarto.org)
+    
+    right:  
+      - text: "Código de conducta"
+        aria-label: "Código de conducta"
+        href: conducta.qmd
+      - text: "Licencia"
+        aria-label: "Detalles de la Licencia"
+        href: licencia.qmd
+      - text: "Contacto"
+        aria-label: "Formulario de contacto"
+        href: contacto.qmd
+
+
+
+format:
+   html:
+    page-layout: full
+    toc: false
+    theme: 
+      - redjicmar_theme.scss
+    mainfont: Commissioner
+    smooth-scroll: true
+
+editor: source
+

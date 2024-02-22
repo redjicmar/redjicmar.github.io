@@ -1,0 +1,99 @@
+---
+title: ""
+sidebar: false
+toc: false
+page-layout: full
+format: html
+editor: 
+  mode: source
+---
+
+<!---------------- Bloque info general ---------------->
+
+::: {.column-page .center}
+![](imagenes/logo-sombra-gris.svg){fig-align="center" width="15em" fig-alt="Logo redondo con el nombre de la red JICMar Latinoamérica. El fondo es blanco y hay unas líneas curvas en distintos tonos de verde y azul en la parte de abajo asemejando a las olas del mar."}
+
+::: {.h1 .topbr}
+Jóvenes Investigadores en Ciencias del Mar 
+:::
+
+::: {.h3-dark-gray}
+Latinoamérica
+:::
+
+::: {.topbr}
+[{{< iconify bi github size=xl >}}](https://github.com/redjicmar) [..]{.transparent} [{{< iconify bi twitter size=xl >}}](https://twitter.com/redjicmar) [..]{.transparent} [{{< fa envelope size=xl >}}](contacto.qmd)
+:::
+
+
+<br>
+
+
+::: {.white-div .center}
+Somos un grupo de Jóvenes Investigadores en Ciencias del Mar comprometidos en promover la [igualdad de oportunidades]{.bold-dark-gray} y la [colaboración]{.bold-dark-gray} entre pares que estudien o trabajen en temáticas marinas. 
+
+<br>
+
+Buscamos dejar una huella fomentando la [colaboración]{.bold-dark-gray} e [interdisciplinariedad]{.bold-dark-gray} entre profesionales de Latinoamérica por dentro y por fuera del ámbito académico.
+:::
+:::
+
+
+<br>
+
+
+<!---------------- Bloque vision, mision y valores ---------------->
+
+::: {.column-screen .center}
+::: {.lightblue-div}
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .add-space} 
+::: {.h1}
+{{< fa rocket size=xl >}}
+Misión
+:::
+:::{.body} 
+Buscamos fortalecer y enriquecer las perspectivas de las nuevas generaciones de profesionales en ciencias del mar a través de una [voz colectiva]{.bold-dark-gray}. 
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4 .add-space} 
+::: {.h1}
+{{< fa eye size=xl >}}
+Visión
+:::
+:::{.body} 
+Vemos un futuro en el que los jóvenes investigadores desempeñen un [rol activo]{.bold-dark-gray} en conversaciones con diversos miembros de la comunidad científica y la sociedad civil. 
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4 .add-space} 
+::: {.h1}
+{{< fa gem size=xl >}}
+Valores
+:::
+:::{.body} 
+Nuestra aspiración es contribuir a la creación de un futuro más [equitativo y sostenible]{.bold-dark-gray} desde una perspectiva arraigada en América Latina y el Caribe.
+:::
+:::
+
+:::
+:::
+:::
+
+
+<br>
+<br>
+
+::: {.column-page .white-div .center}
+Aún estamos trabajando en construir la red y esta página web. Ya pueden conocer un poco más sobre [quienes somos y nuestros objetivos](quienes-somos.qmd). Más adelante podrán chequear el [directorio](directorio.qmd) en búsqueda de nuevas colaboraciones, revisar oportunidades de [subsidios](recursos/subsidios.qmd) y conocer sobre posibles [sociedades de interés](recursos/soc-eventos.qmd).
+
+<br>
+
+También tendremos una sección de [eventos](eventos.qmd) en los que participó la red y posteos en nuestro [blog](blog.qmd)!
+
+<br>
+
+Y si quieren contactarse, pueden enviarnos un correo a [redjicmar@gmail.com]{.bold-dark-gray} o dejarnos un mensaje [aquí](contacto.qmd).
+:::
