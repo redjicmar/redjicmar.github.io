@@ -87,11 +87,13 @@ Nuestra aspiración es contribuir a la creación de un futuro más [equitativo y
 <br>
 
 ::: {.column-page .white-div .center}
-Aún estamos trabajando en construir la red y esta página web. Ya pueden conocer un poco más sobre [quienes somos y nuestros objetivos](quienes-somos.qmd). Más adelante podrán chequear el [directorio](directorio.qmd) en búsqueda de nuevas colaboraciones, revisar oportunidades de [subsidios](recursos/subsidios.qmd) y conocer sobre posibles [sociedades de interés](recursos/soc-eventos.qmd).
+Aún estamos trabajando en construir la red y esta página web.
+
 
 <br>
 
-También tendremos una sección de [eventos](eventos.qmd) en los que participó la red y posteos en nuestro [blog](blog.qmd)!
+Ya pueden conocer un poco más sobre [quienes somos y nuestros objetivos](quienes-somos.qmd). Más adelante podrán chequear el [directorio](directorio.qmd) en búsqueda de nuevas colaboraciones, revisar oportunidades de [subsidios](recursos/subsidios.qmd) y conocer sobre posibles [sociedades de interés](recursos/soc-eventos.qmd).
+
 
 <br>
 

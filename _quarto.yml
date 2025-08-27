@@ -26,13 +26,10 @@ website:
             href: recursos/subsidios.qmd
           - text: "Sociedades y eventos"
             href: recursos/soc-eventos.qmd
-          - text: "Oportunidades laborales"
-            href: recursos/op-laborales.qmd
+
 
       - text: "Eventos"
         href: eventos.qmd
-      - text: "Blog"
-        href: blog.qmd
 
 
 
