@@ -1,6 +1,6 @@
 ---
 title: "Sobre la Red JICMar"
-subtitle: "su gestación, objetivos y estructura"
+subtitle: "historia, objetivos y estructura"
 title-block-banner: true
 toc: true
 toc-title: "Contenido"
@@ -10,11 +10,11 @@ editor:
 
 # Cómo comenzó
 
-Esta red inició entre un grupo de amigues que nos formamos en Biología y Oceanografía Física en la Universidad de Buenos Aires, Argentina. La mayoría recién doctorades o a punto de doctorarnos y queríamos realizar postdocs en otro país o aplicar a instancias afuera, pedir fondos, actividades claves en nuestro rol como [Jóvenes Científicos en Ciencias del Mar]{.bold-dark-gray}.
+Esta red inició entre un grupo de amigues que nos formamos en Biología y Oceanografía Física en la Universidad de Buenos Aires, Argentina. La mayoría recién doctorades o a punto de doctorarnos, queríamos pedir fondos, colaborar con nuevas personas e instituciones o realizar postdocs en otro país, actividades claves en nuestro rol como [Jóvenes Científicos en Ciencias del Mar]{.bold-dark-gray}.
 
-Hablando entre nosotres empezamos a notar que compartíamos las [mismas problemáticas]{.bold-dark-gray} más allá de trabajar en distintas disciplinas o con distintos grupos. Y empezamos a intercambiar información y tips entre nosotres.
+Hablando entre nosotres nos dimos cuenta que compartíamos las [mismas problemáticas]{.bold-dark-gray} más allá de trabajar en distintas disciplinas o con distintos grupos. Y empezamos a intercambiar información y tips entre nosotres.
 
-En este mismo espíritu, consideramos que la información que fuéramos recopilando tenía que estar disponible para cualquier persona interesada. Y de esa forma también podíamos retroalimentarnos y seguir creciendo hacia [una comunidad colaborativa]{.bold-dark-gray}. Y así es que decidimos crear esta red de y para jóvenes que trabajen en temas relacionados a ciencias del mar.
+En ese mismo espíritu, consideramos que la información que fuéramos recopilando tenía que estar disponible para cualquier persona interesada. De esa forma también podíamos retroalimentarnos y seguir creciendo hacia [una comunidad colaborativa]{.bold-dark-gray}. Y así nació esta red de y para jóvenes que trabajen en temas relacionados a ciencias del mar en Latinoamérica.
 
 
 <br>
@@ -22,11 +22,12 @@ En este mismo espíritu, consideramos que la información que fuéramos recopila
 
 # Objetivos
 
-Creemos que es fundamental [establecer conexiones y colaboraciones]{.bold-dark-gray} con otros profesionales a nivel nacional e internacional para crear un futuro más [equitativo y sostenible]{.bold-dark-gray}. Es por ello que esta Red JICMar tiene cómo objetivos particulares:
+Creemos que es fundamental [establecer conexiones y colaboraciones]{.bold-dark-gray} con otros profesionales a nivel nacional e internacional para crear un futuro más [equitativo y sostenible]{.bold-dark-gray}. 
 
-* Generar una [base de datos]{.bold-dark-gray} de instituciones, grupos e individuos relacionados con las ciencias del océano para facilitar la conexión y colaboración entre los miembros.
-* Proporcionar información sobre posibles [oportunidades laborales]{.bold-dark-gray} en el campo de las ciencias del océano.
-* Orientar en la solicitud e identificación de fuentes de [financiamiento]{.bold-dark-gray}.
+Es por ello que la Red JICMar tiene cómo objetivos particulares:
+
+* Construir una [base de datos]{.bold-dark-gray} de instituciones, grupos e individuos relacionados con las ciencias del océano para facilitar la conexión y colaboración entre los miembros.
+* Compartir información sobre fuentes de [financiamiento]{.bold-dark-gray} y [sociedades y eventos]{.bold-dark-gray} de interés.
 * Generar espacios de [intercambio entre jóvenes investigadores]{.bold-dark-gray} de ciencias del mar en el marco de talleres, jornadas y reuniones, en los cuales se pueda:
 
   - Poner en común desafíos y problemáticas de la puesta en práctica de la interdisciplina en las Ciencias del Mar.
@@ -47,12 +48,90 @@ Esta red esta formada por y para personas dentro de las Ciencias del Mar en Lati
 
 Actualmente la Red JICMar está gestionada por:
 
-* Nicolás Lois
-* Belén Risaro
-* Milagros Urricariet
-* Romina Trinchin
-* Loreley Lago
-* Virginia García Alonso
+<br>
+
+:::: {.center}
+
+::: {.profile}
+![](imagenes/nico_lois.png){width="100%" fig-alt="Foto de Nicolás Lois."}
+
+::: {.almost-bold .medium-text}
+Nicolás Lois
+:::
+
+Argentina
+:::
+
+::: {.profile} 
+![](imagenes/romi_trinchin.png){width="100%" fig-alt="Foto de Romina Trinchin."}
+
+::: {.almost-bold .medium-text}
+Romina Trinchin
+:::
+
+Uruguay
+:::
+
+::: {.profile} 
+![](imagenes/mili_urricariet.png){width="100%" fig-alt="Foto de Milagro Urricariet."}
+
+::: {.almost-bold .medium-text}
+Milagro Urricariet
+:::
+
+Argentina
+:::
+
+
+::: {.profile} 
+![](imagenes/vir_garcia_alonso.png){fig-align="center" width="100%" fig-alt="Foto de Virginia García Alonso."}
+
+::: {.almost-bold .medium-text}
+Virginia García Alonso
+:::
+
+Argentina
+:::
+
+::::
+
+<br>
+
+Esta red fue fundada y desorrollada fundación en colaboración con:
+
+::: {.center}
+
+::: {.profile}
+![](imagenes/dani_risaro.png){fig-align="center" width="100%" fig-alt="Foto de Daniela Risaro."}
+
+::: {.almost-bold .medium-text}
+Daniela Risaro
+:::
+
+Argentina
+:::
+
+::: {.profile}
+![](imagenes/lore_lago.png){fig-align="center" width="100%" fig-alt="Foto de Loreley Lago."}
+
+::: {.almost-bold .medium-text}
+Loreley Lago
+:::
+
+Argentina
+:::
+
+::: {.profile}
+![](imagenes/sofi_calla.png){fig-align="center" width="100%" fig-alt="Foto de Sofía Calla."}
+
+::: {.almost-bold .medium-text}
+Sofía Calla
+:::
+
+Argentina
+:::
+
+::::
 
 Aún estamos en proceso de estructuración y más adelante estaremos dando información sobre cómo sumarse a nuevos roles y tareas.
 

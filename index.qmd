@@ -11,7 +11,7 @@ editor:
 <!---------------- Bloque info general ---------------->
 
 ::: {.column-page .center}
-![](imagenes/logo-sombra-gris.svg){fig-align="center" width="15em" fig-alt="Logo redondo con el nombre de la red JICMar Latinoamérica. El fondo es blanco y hay unas líneas curvas en distintos tonos de verde y azul en la parte de abajo asemejando a las olas del mar."}
+![](imagenes/logo-sombra-gris.svg){width="15em" fig-alt="Logo redondo con el nombre de la red JICMar Latinoamérica. El fondo es blanco y hay unas líneas curvas en distintos tonos de verde y azul en la parte de abajo asemejando a las olas del mar."}
 
 ::: {.h1 .topbr}
 Jóvenes Investigadores en Ciencias del Mar 

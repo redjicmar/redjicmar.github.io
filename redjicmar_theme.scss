@@ -141,7 +141,7 @@ footer {
 }
 
 .center {
-  text-align: center;
+  text-align: center !important
 }
 
 .h2-dark-gray{
@@ -223,6 +223,12 @@ footer {
 .large-text {
   font-size: 25px;
 }
+
+// medium text
+.medium-text {
+  font-size: 20px;
+}
+
 
 // slightly smaller than default text
 .small-text {
@@ -323,6 +329,29 @@ padding-left: 15%;
   padding-bottom: 1%;
   padding-right: 15%; 
   padding-left: 15%; 
+}
+
+
+// Segmento integrantes
+.profile {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-width: 200px;
+    width: 25%;
+    font-size: 0.75em;
+    //background-color: #c1e0e2;
+    //color: #565656;
+    //border: 2px solid #565656;
+    //border-color: #565656;
+    padding: 10px .5rem 0px .5rem !important;
+    margin-bottom: 0.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 2px; 
+    display: inline-block;
+    vertical-align:top;
+    text-align: center !important;
 }
 
 //- Botones -//
