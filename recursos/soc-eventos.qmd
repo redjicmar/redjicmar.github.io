@@ -10,9 +10,13 @@ editor:
 
 <br>
 
-Esta es una primera versión con eventos y sociedades afines a las ciencias marinas, siendo algunas organizaciones especialmente orientadas a jóvenes investigadores.
+::: {.column-page}
+Esta es una primera lista eventos y sociedades afines a las ciencias marinas, siendo algunas organizaciones especialmente orientadas a jóvenes investigadores.
 
 Si saben de algún otro evento u organización que puedan ser de interés no duden en compartirlas [aquí](contacto.qmd) o mandando un correo a [redjicmar@gmail.com]{.bold-dark-gray}.
+
+<br>
+<br>
 
 # Eventos
 
@@ -58,3 +62,4 @@ NASA Earthdata-Openscapes responde a una convocatoria de NASA Earthdata para apo
 ## [OYSTER (Orienting Young ScienTists of EuromaRine)](https://euromarinenetwork.eu/oyster/)	
 [Europeo]{.bold-dark-gray}  
 OYSTER (Orienting Young ScienTists of EuromaRine) es un grupo de trabajo independiente financiado por la red EuroMarine. OYSTER se dedica a promover y apoyar oportunidades para investigadores jóvenes (ECR) en el ámbito de las ciencias marinas. Comparten en su cuenta de [X](https://x.com/EM_OYSTER?s=20) oportunidades laborales.
+:::
