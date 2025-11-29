@@ -2,10 +2,59 @@
 title: "Sociedades y eventos"
 subtitle: "para seguir ampliando redes"
 title-block-banner: true
-#toc: true
+toc: true
 toc-title: "Contenido"
 editor: 
   mode: source
 ---
 
-# Próximamente!
+<br>
+
+Esta es una primera versión con eventos y sociedades afines a las ciencias marinas, siendo algunas organizaciones especialmente orientadas a jóvenes investigadores.
+
+Si saben de algún otro evento u organización que puedan ser de interés no duden en compartirlas [aquí](contacto.qmd) o mandando un correo a [redjicmar@gmail.com]{.bold-dark-gray}.
+
+# Eventos
+
+## 2025
+
+### [XII Jornadas Nacionales de Ciencias del Mar](https://www.unp.edu.ar/XIIJNCM/)
+[Nacional: Argentina]{.bold-dark-gray}  
+Las Jornadas de Ciencias del Mar son un evento tradicional en el ámbito científico nacional argentino. Las mismas se organizan en forma conjunta con los “Coloquios Nacionales de Oceanografía”. 
+
+<br>
+<br>
+
+# Sociedades y organizaciones
+
+## [YESS (Young Earth System Scientists)](https://www.yess-community.org/)	
+[Global]{.bold-dark-gray}  
+Comunidad de jóvenes científicos de ciencias de la tierra. Se centra en los investigadores que se encuentran en las primeras etapas de su carrera (ECR: estudiante de máster, doctorando, posdoctorado o investigador con menos de 7 años desde la obtención del título más alto) y que trabajan en el campo interdisciplinario de las ciencias de la tierra. Ofrecen webinarios y otros recursos.
+
+## [ECOP (Early Career Ocean Professionals)](https://www.ecopdecade.org/)
+[Global]{.bold-dark-gray}  
+El Programa de la Red de Profesionales Oceánicos en Etapa Inicial de su Carrera (ECOP) se ha creado para empoderar a los ECOP, que se identifican a sí mismos como profesionales en etapa inicial de su carrera en cualquier campo relacionado con el océano. El programa es un elemento central de la Década de las Ciencias Oceánicas para el Desarrollo Sostenible de las Naciones Unidas, y fue respaldado por la Década de los Océanos de las Naciones Unidas como programa de red en 2021.
+
+## [OceanExpert-A Directory of Marine and Freshwater Professionals](https://oceanexpert.org/)
+[Global]{.bold-dark-gray}  
+Directorio de personas, temas e instituciones. También se difunden talleres que se realizan en el marco del grupo.
+
+## [MarSocSci (Marine Social Sciences Network)](https://www.marsocsci.net/)
+[Global]{.bold-dark-gray}  
+Red interdisciplinaria e internacional que trabaja para reunir a una comunidad en crecimiento y facilitar el intercambio de conocimientos entre diversas partes interesadas de todo el sector marino y costero. Tienen un Newsletter donde comparten información de eventos, trabajos, workshops, etc.
+
+## [IMECAN (Interdisciplinary Marine Early Career Network)](https://imber.info/imecan-interdisciplinary-marine-early-career-network/)	
+[Global]{.bold-dark-gray}  
+Comunidad que busca proporcionar una plataforma de networking para desarrollar colaboraciones, ofrecer formación y desarrollo en áreas que tradicionalmente no se abordan en los programas formales de educación y proporcionar oportunidades de liderazgo a los investigadores marinos que se encuentran en los inicios de su carrera, especialmente a aquellos procedentes de países en desarrollo.
+
+## [Marine Biology Career Network](https://www.facebook.com/groups/2362074407344426/)
+[Global]{.bold-dark-gray}  
+Grupo para profesionales en biología y conservación marina (actuales o en desarrollo) que busca compartir ofertas de trabajo, brindar un espacio para hacer preguntas relacionadas con la carrera profesional y compartir información y noticias relacionadas con la carrera.
+
+## [NASA Openscapes](https://nasa-openscapes.github.io/)	
+[Global]{.bold-dark-gray}  
+NASA Earthdata-Openscapes responde a una convocatoria de NASA Earthdata para apoyar a los investigadores científicos que utilizan datos de los Centros de Archivos Activos Distribuidos (DAAC) de la NASA en la migración de sus flujos de trabajo a la nube. Tienen un programa de "campeones" y además comparten su material de manera abierta.
+
+## [OYSTER (Orienting Young ScienTists of EuromaRine)](https://euromarinenetwork.eu/oyster/)	
+[Europeo]{.bold-dark-gray}  
+OYSTER (Orienting Young ScienTists of EuromaRine) es un grupo de trabajo independiente financiado por la red EuroMarine. OYSTER se dedica a promover y apoyar oportunidades para investigadores jóvenes (ECR) en el ámbito de las ciencias marinas. Comparten en su cuenta de [X](https://x.com/EM_OYSTER?s=20) oportunidades laborales.
