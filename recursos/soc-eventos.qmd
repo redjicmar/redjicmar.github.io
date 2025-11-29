@@ -57,6 +57,10 @@ Grupo para profesionales en biología y conservación marina (actuales o en desa
 [Global]{.bold-dark-gray}  
 NASA Earthdata-Openscapes responde a una convocatoria de NASA Earthdata para apoyar a los investigadores científicos que utilizan datos de los Centros de Archivos Activos Distribuidos (DAAC) de la NASA en la migración de sus flujos de trabajo a la nube. Tienen un programa de "campeones" y además comparten su material de manera abierta.
 
+## [Palaeoverse](https://palaeoverse.org/)	
+[Global]{.bold-dark-gray}  
+Palaeoverse es una iniciativa cuyo objetivo es reunir a la comunidad paleobiológica para compartir recursos, alcanzar estándares consensuados y mejorar la reproducibilidad en la investigación paleobiológica. Esta comunidad cuenta con diversos recursos incluyendo un directorio y un "Grant tracker" entre otros. Esta sociedad ha sido un ejemplo a seguir y el código abierto de su página web ha sido clave en la confección de ésta página web 🙌.
+
 ## [OYSTER (Orienting Young ScienTists of EuromaRine)](https://euromarinenetwork.eu/oyster/)	
 [Europeo]{.bold-dark-gray}  
 OYSTER (Orienting Young ScienTists of EuromaRine) es un grupo de trabajo independiente financiado por la red EuroMarine. OYSTER se dedica a promover y apoyar oportunidades para investigadores jóvenes (ECR) en el ámbito de las ciencias marinas. Comparten en su cuenta de [X](https://x.com/EM_OYSTER?s=20) oportunidades laborales.
