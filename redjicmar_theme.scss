@@ -495,3 +495,13 @@ padding-left: 15%;
     font-size: 14px;
   }
 }
+
+// para que funcione la tabla de los subsidios
+table.dataTable td {
+  white-space: normal !important;   /* permite el salto de línea */
+  word-wrap: break-word;            /* rompe palabras largas */
+}
+
+.dataTables_wrapper {
+  overflow-x: hidden;               /* oculta scroll horiz */
+}

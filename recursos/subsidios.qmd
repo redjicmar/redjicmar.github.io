@@ -2,10 +2,82 @@
 title: "Subsidios"
 subtitle: "lista de subsidios para investigaciones y viajes"
 title-block-banner: true
-#toc: true
+toc: true
 toc-title: "Contenido"
 editor: 
   mode: source
 ---
 
-# Próximamente!
+Estas son algunas de las fuentes de financiación para actividades de investigación, viajes, pasantías, etc., dirigidas a jóvenes investigadores en ciencias del mar.
+
+[Importante]{.bold-dark-gray}: Aunque nos esforzamos por garantizar que todos los datos aquí incluidos estén actualizados y sean precisos, les recomendamos que siempre [comprueben la información oficial en los sitios web de los financiadores]{.bold-dark-gray}. No nos hacemos responsables del incumplimiento de los plazos.
+
+Si saben de alguna otra fuente de financiamiento no duden en compartirlas [aquí](contacto.qmd) o mandando un correo a [redjicmar@gmail.com]{.bold-dark-gray}.
+
+<br>
+
+# Subsidios
+
+::: {.text-column}
+```{r}
+#| echo: false
+#| warning: false
+library(googlesheets4)
+library(dplyr)
+library(DT)
+
+# Leer los datos como caracteres
+gs4_deauth()
+df <- read_sheet(
+  "https://docs.google.com/spreadsheets/d/1FuZM4JegB8rlNhbih18CcZH6R7IaO4TVYTmmm_bOsiM/edit?usp=sharing",
+  col_types = "c"
+)
+
+# Agregar links
+df$Nombre <- paste0("<a href='",df$URL,"' target='_blank'>",df$Nombre,"</a>")
+df <- df[, !colnames(df) %in% "URL"]
+
+# Generar la tabla
+DT::datatable(
+  df,
+  style = "bootstrap4",
+  escape = FALSE,
+  rownames = FALSE,
+  colnames = c("Nombre", "Disciplinas", "Montos",
+               "Fecha apertura", "Fecha cierre", "Fecha decisión",
+               "Descripción"),
+  options = list(
+    pageLength = 30,
+    scrollX = FALSE,       # sin scroll horizontal
+    autoWidth = TRUE,      # ajusta automáticamente al contenedor
+    columnDefs = list(list(className = "dt-left", targets = "_all"))
+  )
+) %>%
+DT::formatStyle(
+  columns = colnames(df),
+  whiteSpace = "normal",  # texto hace wrap
+  fontSize = "75%",
+  lineHeight = "1.2"
+)
+```
+:::
+
+<br>
+<br>
+
+# Links con más oportunidades
+
+## [Ocean Opportunities-The Tiny Opportunities Board](https://oceanopportunities.org/tiny-opportunities-board)	
+Financiamiento, becas, trabajos, workshops, etc.
+
+## [Fondos para becas posdoctorales en biología](https://docs.google.com/spreadsheets/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpda2aoHfQ/edit?gid=0#gid=0)	
+Becas postdoctorales
+
+## [ECOP](https://www.ecopdecade.org/opportunities/jobsinternships/)	
+Trabajos y pasantías
+
+## [Becas en UK](https://docs.google.com/spreadsheets/d/1djUr2eCCwPmGwWFn-BecRJmCKX9TzbRU/edit?gid=364229214#gid=364229214)	
+Lista de becas organizada por la comunidad [Red de Científicos Argentinos en Reino Unido](https://rcaru.carrd.co/)
+
+## [Paleoverse](https://palaeoverse.org/funding.html)	
+Lista de becas y financiamiento en paleontología.
