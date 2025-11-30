@@ -1,0 +1,77 @@
+---
+title: "2022-2025"
+description: "Eventos y participaciones"
+date: 2025-11-30
+categories: [congresos]
+image: cover.png
+draft: false
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 650px
+toc: true
+toc-title: "Contenido"
+editor: 
+  mode: source
+---
+
+<br>
+
+# 2022: Encuesta inicial y Jornadas Doctorales del Mar en Uruguay
+
+La idea de JICMar nace de esas conversaciones informales, entre almuerzo y mates, en la [Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires]{.bold-dark-gray}, donde jóvenes investigadores (por ese entonces bastante más jóvenes) comenzamos a reconocernos en problemáticas comunes: lo indispensable de tejer redes, la necesidad de apoyarnos mutuamente y la urgencia de tener una voz propia en el ámbito de las ciencias del mar en Latinoamérica (pueden conocer un poco más sobre [quienes somos y nuestros objetivos](quienes-somos.qmd)).
+
+Ese impulso inicial pronto se transformó en acción. En [julio de 2022]{.bold-dark-gray} lanzamos una [encuesta abierta y convocatoria inicial]{.bold-dark-gray}, que nos permitió tomarle el pulso a la comunidad: sus intereses, sus necesidades y sus desafíos.
+
+![](encuesta.png){fig-align="center" width="90%" fig-alt="Algunos de los resultados principales de la primera encuesta destacan una baja colaboración con colegas de otros países junto con una posible falta de conocimiento sobre financiamiento y dificultades en el uso de software."}
+
+<p class="legend-center">Algunos de los resultados principales de la primera encuesta destacaron una baja colaboración con colegas de otros países junto con una posible falta de conocimiento sobre financiamiento y dificultades en el uso de software.</p>
+
+El siguiente gran paso fue nuestra participación en las [Jornadas Doctorales del Mar en Uruguay en noviembre de 2022]{.bold-dark-gray}. Tuvimos la oportunidad de presentar por primera vez a JICMar frente a colegas y autoridades académicas. Ahí transmitimos la importancia de construir comunidad, de reconocernos como pares y de abrir espacios de colaboración más horizontales y regionales. Fue sin dudas un punto de inflexión y dio fuerza al camino que estábamos iniciando. Ahí surge la comunidad de WhatsApp que aún hoy estamos usando como principal medio de mantenernos comunicados.
+
+![](jornadas_uruguay.png){fig-align="center" width="90%" fig-alt="Parte del equipo organizador de la red JICMar junto a colegas en las Jornadas Doctorales del Mar en Uruguay en noviembre de 2022."}
+
+<p class="legend-center">Parte del equipo organizador de la red JICMar junto a colegas en las Jornadas Doctorales del Mar en Uruguay.</p>
+
+<br>
+
+# 2023: OLS y Pampa Azul
+En [2023]{.bold-dark-gray} nos focalizamos en [discutir prioridades y metas de corto y mediano plazo]{.bold-dark-gray}, lo que nos permitió ordenar los objetivos de la red y pensar estrategias posibles. En octubre de ese año participamos del [programa internacional Open Life Science]( https://we-are-ols.org/), donde recibimos formación en liderazgo colaborativo, comunicación abierta y gestión de redes. Ese proceso fue clave para [definir las bases de nuestra misión y visión]{.bold-dark-gray}, y proyectarlas en la [estructura inicial de nuestra página web]{.bold-dark-gray}.
+
+![](web_planificacion.png){fig-align="center" width="90%" fig-alt="Primeras versiones de la página web junto con las principales metas: generar una base de datos de personas e instituciones, compartir oportunidades laborales y de financiamiento y generar un espacio de intercambio entre jóvenes científicos en ciencias del mar."}
+
+<p class="legend-center">Primeras versiones de la página web junto con las principales metas.</p>
+
+Hacia fin de año, fuimos invitados al [Congreso Pampa Azul]{.bold-dark-gray}, donde presentamos la discusión que veníamos sosteniendo dentro de la red. Allí, junto a la comunidad, [abrimos un espacio de debate y priorización en vivo]{.bold-dark-gray}, con resultados muy enriquecedores y a la vez sorprendentes, que nos marcaron nuevas líneas de trabajo a seguir.
+
+![](pampa_azul.png){fig-align="center" width="90%" fig-alt="Dani Risaro estuvo a cargo de presentar a la red JICMar y de la actividad para priorizar los desafíos."}
+
+<p class="legend-center">Dani Risaro estuvo a cargo de presentar a la red JICMar y de la actividad para priorizar los desafíos.</p> 
+
+<br>
+
+# 2024: Planificación estratégica
+En [2024]{.bold-dark-gray} el trabajo de la red se centró en una planificación estratégica más consolidada, buscando condensar todo lo discutido y aprendido durante el año anterior y, al mismo tiempo, proyectar el futuro de la red.
+
+* Desarrollamos estrategias para iniciar nodos locales, Buenos Aires, Montevideo, Tierra del Fuego y Madryn fueron nuestros primeros experimentos con el objetivo de fortalecer la presencia territorial de la red.
+* Planificamos la búsqueda de fondos para la realización de talleres y la participación en jornadas como espacios de intercambio y promoción de la red.
+* Multiplicamos invitaciones y contactos, ampliando la comunidad a través de la difusión de nuestra página web y la comunidad de WhatsApp.
+Este año representó una transición clave, en el que la red JICMar pasó de las primeras experiencias y discusiones internas a una etapa de crecimiento con mayor proyección regional.
+
+<br>
+
+# 2025: Falkoor (too), Escuela de verano y JNCM
+En [2025]{.bold-dark-gray}, miembros de la red participaron en eventos clave, como las campañas oceanográficas del Falkor (too) por la costa sudamericana del Atlántico Sudoccidental.
+
+![](falkoor.png){fig-align="center" width="90%" fig-alt="Romina Trinchin (esquina derecha en al primer foto) participo en la campaña “Visualizing the Deep off Uruguay” y Sebastián Cornejo (en la segunda foto) participó de la campaña “A Tale of Two Submarine Canyons”."}
+
+<p class="legend-center">Romina Trinchin (esquina derecha en al primer foto) participo en la campaña “Visualizing the Deep off Uruguay” y Sebastián Cornejo (en la segunda foto) participó de la campaña “A Tale of Two Submarine Canyons”.</p> 
+
+Participamos de la escuela de verano “Planeta Océano: origen, presente y futuro de la vida en la Tierra. El primer observatorio virtual regional para preservar la salud y la integridad de los ecosistemas marinos en América Latina (Corredor Atlántico)” en Río de Janeiro
+
+![](rio_janeiro.png){fig-align="center" width="90%" fig-alt="Nico Lois en la escuela de verano en Río de Janeiro."}
+
+<p class="legend-center">Nico Lois en la escuela de verano en Río de Janeiro.</p> 
+
+Para cerrar el año organizamos el primer taller de la red JICMar presencial que se llevará a cabo durante las [Jornadas de Ciencias del Mar](https://www.unp.edu.ar/XIIJNCM/) que se realizarán en Puerto Madryn en diciembre.
