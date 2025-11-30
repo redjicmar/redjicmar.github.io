@@ -82,6 +82,15 @@ Milagro Urricariet
 Argentina
 :::
 
+::: {.profile} 
+![](imagenes/sebas_cornejo.png){width="100%" fig-alt="Foto de Milagro Urricariet."}
+
+::: {.almost-bold .medium-text}
+Sebastián Cornejo
+:::
+
+Chile
+:::
 
 ::: {.profile} 
 ![](imagenes/vir_garcia_alonso.png){fig-align="center" width="100%" fig-alt="Foto de Virginia García Alonso."}
