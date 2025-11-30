@@ -29,25 +29,25 @@ Las Jornadas de Ciencias del Mar son un evento tradicional en el ámbito cientí
 
 # Sociedades y organizaciones
 
-## [YESS (Young Earth System Scientists)](https://www.yess-community.org/)	
+## [YESS](https://www.yess-community.org/)	
 [Global]{.bold-dark-gray}  
-Comunidad de jóvenes científicos de ciencias de la tierra. Se centra en los investigadores que se encuentran en las primeras etapas de su carrera (ECR: estudiante de máster, doctorando, posdoctorado o investigador con menos de 7 años desde la obtención del título más alto) y que trabajan en el campo interdisciplinario de las ciencias de la tierra. Ofrecen webinarios y otros recursos.
+YESS (Young Earth System Scientists) es una comunidad de jóvenes científicos de ciencias de la tierra. Se centra en los investigadores que se encuentran en las primeras etapas de su carrera (ECR: estudiante de máster, doctorando, posdoctorado o investigador con menos de 7 años desde la obtención del título más alto) y que trabajan en el campo interdisciplinario de las ciencias de la tierra. Ofrecen webinarios y otros recursos.
 
-## [ECOP (Early Career Ocean Professionals)](https://www.ecopdecade.org/)
+## [ECOP](https://www.ecopdecade.org/)
 [Global]{.bold-dark-gray}  
-El Programa de la Red de Profesionales Oceánicos en Etapa Inicial de su Carrera (ECOP) se ha creado para empoderar a los ECOP, que se identifican a sí mismos como profesionales en etapa inicial de su carrera en cualquier campo relacionado con el océano. El programa es un elemento central de la Década de las Ciencias Oceánicas para el Desarrollo Sostenible de las Naciones Unidas, y fue respaldado por la Década de los Océanos de las Naciones Unidas como programa de red en 2021.
+El Programa de la Red de Profesionales Oceánicos en Etapa Inicial de su Carrera (Early Career Ocean Professionals; ECOP) se ha creado para empoderar a los ECOP, que se identifican a sí mismos como profesionales en etapa inicial de su carrera en cualquier campo relacionado con el océano. El programa es un elemento central de la Década de las Ciencias Oceánicas para el Desarrollo Sostenible de las Naciones Unidas, y fue respaldado por la Década de los Océanos de las Naciones Unidas como programa de red en 2021.
 
-## [OceanExpert-A Directory of Marine and Freshwater Professionals](https://oceanexpert.org/)
+## [OceanExpert](https://oceanexpert.org/)
 [Global]{.bold-dark-gray}  
-Directorio de personas, temas e instituciones. También se difunden talleres que se realizan en el marco del grupo.
+Directorio de proofesionales en ciencias marinas y de agua dulce, temas e instituciones. También se difunden talleres que se realizan en el marco del grupo.
 
-## [MarSocSci (Marine Social Sciences Network)](https://www.marsocsci.net/)
+## [MarSocSci](https://www.marsocsci.net/)
 [Global]{.bold-dark-gray}  
-Red interdisciplinaria e internacional que trabaja para reunir a una comunidad en crecimiento y facilitar el intercambio de conocimientos entre diversas partes interesadas de todo el sector marino y costero. Tienen un Newsletter donde comparten información de eventos, trabajos, workshops, etc.
+MarSocSci (Marine Social Sciences Network) es una red interdisciplinaria e internacional que trabaja para reunir a una comunidad en crecimiento y facilitar el intercambio de conocimientos entre diversas partes interesadas de todo el sector marino y costero. Tienen un Newsletter donde comparten información de eventos, trabajos, workshops, etc.
 
-## [IMECAN (Interdisciplinary Marine Early Career Network)](https://imber.info/imecan-interdisciplinary-marine-early-career-network/)	
+## [IMECAN](https://imber.info/imecan-interdisciplinary-marine-early-career-network/)	
 [Global]{.bold-dark-gray}  
-Comunidad que busca proporcionar una plataforma de networking para desarrollar colaboraciones, ofrecer formación y desarrollo en áreas que tradicionalmente no se abordan en los programas formales de educación y proporcionar oportunidades de liderazgo a los investigadores marinos que se encuentran en los inicios de su carrera, especialmente a aquellos procedentes de países en desarrollo.
+IMECAN (Interdisciplinary Marine Early Career Network) es una comunidad que busca proporcionar una plataforma de networking para desarrollar colaboraciones, ofrecer formación y desarrollo en áreas que tradicionalmente no se abordan en los programas formales de educación y proporcionar oportunidades de liderazgo a los investigadores marinos que se encuentran en los inicios de su carrera, especialmente a aquellos procedentes de países en desarrollo.
 
 ## [Marine Biology Career Network](https://www.facebook.com/groups/2362074407344426/)
 [Global]{.bold-dark-gray}  
@@ -61,6 +61,6 @@ NASA Earthdata-Openscapes responde a una convocatoria de NASA Earthdata para apo
 [Global]{.bold-dark-gray}  
 Palaeoverse es una iniciativa cuyo objetivo es reunir a la comunidad paleobiológica para compartir recursos, alcanzar estándares consensuados y mejorar la reproducibilidad en la investigación paleobiológica. Esta comunidad cuenta con diversos recursos incluyendo un directorio y un "Grant tracker" entre otros. Esta sociedad ha sido un ejemplo a seguir y el código abierto de su página web ha sido clave en la confección de ésta página web 🙌.
 
-## [OYSTER (Orienting Young ScienTists of EuromaRine)](https://euromarinenetwork.eu/oyster/)	
+## [OYSTER](https://euromarinenetwork.eu/oyster/)	
 [Europeo]{.bold-dark-gray}  
 OYSTER (Orienting Young ScienTists of EuromaRine) es un grupo de trabajo independiente financiado por la red EuroMarine. OYSTER se dedica a promover y apoyar oportunidades para investigadores jóvenes (ECR) en el ámbito de las ciencias marinas. Comparten en su cuenta de [X](https://x.com/EM_OYSTER?s=20) oportunidades laborales.
