@@ -20,7 +20,7 @@ editor:
 
 # 2022: Encuesta inicial y Jornadas Doctorales del Mar en Uruguay
 
-La idea de JICMar nace de esas conversaciones informales, entre almuerzo y mates, en la [Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires]{.bold-dark-gray}, donde jóvenes investigadores (por ese entonces bastante más jóvenes) comenzamos a reconocernos en problemáticas comunes: lo indispensable de tejer redes, la necesidad de apoyarnos mutuamente y la urgencia de tener una voz propia en el ámbito de las ciencias del mar en Latinoamérica (pueden conocer un poco más sobre [quienes somos y nuestros objetivos](quienes-somos.qmd)).
+La idea de JICMar nace de esas conversaciones informales, entre almuerzo y mates, en la [Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires]{.bold-dark-gray}, donde jóvenes investigadores (por ese entonces bastante más jóvenes) comenzamos a reconocernos en problemáticas comunes: lo indispensable de tejer redes, la necesidad de apoyarnos mutuamente y la urgencia de tener una voz propia en el ámbito de las ciencias del mar en Latinoamérica (pueden conocer un poco más sobre [quienes somos y nuestros objetivos](https://jicmar.org/quienes-somos.html)).
 
 Ese impulso inicial pronto se transformó en acción. En [julio de 2022]{.bold-dark-gray} lanzamos una [encuesta abierta y convocatoria inicial]{.bold-dark-gray}, que nos permitió tomarle el pulso a la comunidad: sus intereses, sus necesidades y sus desafíos.
 
