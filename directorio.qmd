@@ -8,4 +8,8 @@ editor:
   mode: source
 ---
 
-# Próximamente!
+Queremos armar una [base de datos]{.bold-dark-gray} de investigadores/as en Ciencias del Mar para facilitar el contacto, el trabajo en red y el intercambio de información de manera libre y transversal.
+
+La información compartida será utilizada exclusivamente para la conformación de esta base de datos y [será accesible sólo entre los miembros de la red]{.bold-dark-gray}.
+
+Si te interesa formar parte completá [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfz2qAbHUFKAUb4DWMf53wqUnIv3nAzKurpW7_DW58wIBQKlA/viewform?usp=sharing&ouid=118317123984200630306)! 🌊✨
