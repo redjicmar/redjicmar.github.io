@@ -61,7 +61,7 @@ Este año representó una transición clave, en el que la red JICMar pasó de la
 
 <br>
 
-# 2025: Falkoor (too), Escuela de verano y JNCM
+# 2025: Falkor (too), Escuela de verano y JNCM
 En [2025]{.bold-dark-gray}, miembros de la red participaron en eventos clave, como las campañas oceanográficas del Falkor (too) por la costa sudamericana del Atlántico Sudoccidental.
 
 ![](falkoor.png){fig-align="center" width="90%" fig-alt="Romina Trinchin (esquina derecha en al primer foto) participo en la campaña “Visualizing the Deep off Uruguay” y Sebastián Cornejo (en la segunda foto) participó de la campaña “A Tale of Two Submarine Canyons”."}

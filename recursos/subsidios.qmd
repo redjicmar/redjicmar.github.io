@@ -2,8 +2,8 @@
 title: "Subsidios"
 subtitle: "lista de subsidios para investigaciones y viajes"
 title-block-banner: true
-toc: true
-toc-title: "Contenido"
+toc: false
+#toc-title: "Contenido"
 editor: 
   mode: source
 ---
